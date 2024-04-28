@@ -35,7 +35,7 @@ def states_get(state_id=None):
             storage.delete(states[key])
             storage.save()
             return jsonify({}), 200
-        except:
+        except Exception:
             abort(404)
 
     # POST REQUESTS
