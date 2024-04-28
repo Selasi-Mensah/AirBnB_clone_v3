@@ -250,5 +250,6 @@ class TestConsole(unittest.TestCase):
             self.assertFalse("unvalid" in out)
             self.assertFalse("s71ll_n07_va11d" in out)
 
+
 if __name__ == "__main__":
     unittest.main()
