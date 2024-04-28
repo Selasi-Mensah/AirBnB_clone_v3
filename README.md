@@ -63,3 +63,4 @@ Cameron Eng <cameron.eng@holbertonschool.com> <br/>
 Rui Feng <394@holbertonschool.com> <br/>
 Miranda Evans <miranda.r.evans@gmail.com> <br/>
 Kevin Yook <kevin.yook@holbertonschool.com> <br/>
+Ebenezer Ghatey <ebenezerghart@gmail.com> <br/>
